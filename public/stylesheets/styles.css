@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+body {
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+#canvas {
+  background-color: rgb(46, 46, 46);
+}/*# sourceMappingURL=styles.css.map */
